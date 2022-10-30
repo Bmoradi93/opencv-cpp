@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/behnam/git/opencv-cpp/image_filtering'
+make: Leaving directory '/home/behnam/git/opencv-cpp/image_filtering'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
